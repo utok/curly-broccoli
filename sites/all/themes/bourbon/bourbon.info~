@@ -1,0 +1,6 @@
+name = Boubon
+description = Flexible base theme using the power of Bourbon, Neat, Bitters and much more
+
+stylesheets[all][] = node_modules/normalize.css/normalize.css
+stylesheets[all][] = css/style.css
+

@@ -1,0 +1,14 @@
+name = Boubon
+description = Flexible base theme using the power of Bourbon, Neat, Bitters and much more
+core = 7.x
+
+stylesheets[all][] = node_modules/normalize.css/normalize.css
+stylesheets[all][] = css/style.css
+
+
+; Information added by Drupal.org packaging script on 2015-09-11
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "bourbon"
+datestamp = "1442004242"
+
