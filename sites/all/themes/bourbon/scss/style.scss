@@ -1,0 +1,7 @@
+@import "bourbon";
+@import "neat";
+
+#page-wrapper{
+  @include outer-container;
+  background: yellow;
+}

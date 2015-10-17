@@ -1,0 +1,6 @@
+{
+  "name": "ProudCity Pattern Library Boilerplate",
+  "dependencies": {
+    "proudcity-patterns": "proudcity/proudcity-patterns#master"
+  }
+}
